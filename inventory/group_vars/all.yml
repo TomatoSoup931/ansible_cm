@@ -1,7 +1,0 @@
-user:
-  group: ansadm
-  login: ansadm
-  password: 123
-
-file:
-  name: ansadmtest.txt
